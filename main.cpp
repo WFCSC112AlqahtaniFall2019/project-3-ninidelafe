@@ -1,3 +1,8 @@
+/*Alexa(Nini) de la Fe
+ * Project 3
+ * This Program will ....
+ */
+
 #include <iostream>
 #include <vector>
 #include <ctime>
